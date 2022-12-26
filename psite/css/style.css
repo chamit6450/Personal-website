@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #f8fcfd;
+}
+.top{
+    background-color: #EAF6F6;
+}
+h1{
+    font-family: Dancing script;
+    font-size: 4rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: Dancing script;
+    color: #42C2FF;
+    font-size: 2.5rem;
+}
+h3{
+    color: #42C2FF;
+    font-family: Roboto Mono;
+}
+p{
+    font-family: Pacifico;
+}
+.webd{
+    font-size: 2rem;
+    font-family: Caveat;
+}
+.upcloud{
+    position: relative;
+    left: 250px;
+    top: 50px;
+}
+.downcloud{
+    position:relative;
+    bottom: 550px;
+    
+}
+.mountain{
+    position: relative;
+    bottom: 70px;
+}
+
+.img1{
+    width: 10%;
+    margin: 100px auto 60px auto;
+}
+.img2{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.img3{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+/* .skill-row-desc1{
+    clear: left;
+}
+.skill-row-desc2{
+    clear: right;
+} */
+
+hr{
+    width: 10%;
+    border: dotted #c8d1d1 6px;
+    border-bottom: none;
+    margin: 80px auto 80px auto;
+}
+/* .profile{
+    margin-bottom: 100px;
+} */
+
+.btn {
+    background: #69aad6;
+    background-image: -webkit-linear-gradient(top, #69aad6, #58a6d6);
+    background-image: -moz-linear-gradient(top, #69aad6, #58a6d6);
+    background-image: -ms-linear-gradient(top, #69aad6, #58a6d6);
+    background-image: -o-linear-gradient(top, #69aad6, #58a6d6);
+    background-image: linear-gradient(to bottom, #69aad6, #58a6d6);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Dancing script;
+    color: #f5f5f5;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.lastp{
+    margin: 30px auto 60px auto;
+}
+.bottom-container{
+    margin-top: 90px;
+    
+}
+
+.footer-link{
+    margin: auto 10px auto 20px;
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #26b5f7;
+}
